@@ -1,4 +1,4 @@
-<style>
+
 h1{
 color:chocolate;
 }
@@ -13,4 +13,18 @@ section {
 
 
 }
-</style>
+.czerwony{
+    color: red;
+}
+#infooBobo{
+    background: rgb(238, 172, 96);
+}
+a{
+    color: teal;
+}
+section p {
+    color: rgb(128, 73, 2);
+}
+.historiaBobowicka p {
+    background: rgb(166, 202, 199);
+}
