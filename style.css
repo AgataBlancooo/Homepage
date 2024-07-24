@@ -1,6 +1,11 @@
 
 h1{
-color:chocolate;
+color:rgb(182, 101, 44);
+text-align: center;
+padding-top: 15px;
+}
+#wstep{
+    text-align: center;
 }
 h2{
 color: #971414;
@@ -17,14 +22,24 @@ section {
     color: red;
 }
 #infooBobo{
-    background: rgb(238, 172, 96);
+    background: rgb(240, 219, 196);
+    text-align: center;
+    margin: 16px 10%;
+    border: 4px solid gray;
+    border-radius: 5%;
 }
 a{
     color: teal;
 }
 section p {
-    color: rgb(128, 73, 2);
+    color: rgb(63, 48, 28);
 }
 .historiaBobowicka p {
-    background: rgb(166, 202, 199);
+    background: rgb(214, 223, 222);
+    
+}
+
+#glowna{
+    background-color: rgb(252, 209, 181);
+    margin: 6px 4px;
 }
